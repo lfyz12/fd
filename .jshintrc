@@ -1,0 +1,15 @@
+{
+    "camalcase": true,
+    "esversion": 9,
+    "indent": 2,
+    "undef": true,
+    "quotmark": false,
+    "maxlen": 130,
+    "trailing": true,
+    "curly": true,
+    "strict": false,
+    "browser": true,
+    "devel": true,
+    "jquery": true,
+    "node": true
+}
